@@ -1,0 +1,8 @@
+prefix=/home/tjbatche/UR-ROS-Workspace/devel
+
+Name: movement_wrapper
+Description: Description of movement_wrapper
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
